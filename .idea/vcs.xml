@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Employee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parking/parking/target/classes/com/parking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week-3-Order_management_System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week2-assignment_trade_engine" vcs="Git" />
+  </component>
+</project>
